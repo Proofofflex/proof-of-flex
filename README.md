@@ -18,3 +18,5 @@ This is an experiment in on-chain proof and social signaling, not a product.
 Live: https://proofofflex.xyz
 # proof-of-flex
 A public on-chain leaderboard ranking voluntary USDC transfers on Ethereum.
+
+Source code intentionally minimal.
